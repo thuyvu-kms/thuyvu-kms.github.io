@@ -15,7 +15,7 @@
 
     "hero.status": "Sẵn sàng cho vị trí Engineering Manager · TP. Hồ Chí Minh · Onsite / Hybrid / Remote",
     "hero.role": "Engineering Manager",
-    "hero.lead": "Tôi dẫn dắt các đội kỹ thuật đa chức năng tại Việt Nam xây dựng sản phẩm mobile và web cho khách hàng quốc tế — và luôn giữ cân bằng giữa tốc độ và chất lượng.",
+    "hero.lead": "Tôi dẫn dắt các đội kỹ thuật đa chức năng tại Việt Nam xây dựng nhiều loại sản phẩm phần mềm khác nhau cho khách hàng quốc tế — và luôn giữ cân bằng giữa tốc độ và chất lượng.",
     "hero.sub": "Hơn 22 năm trong lĩnh vực phát triển và đảm bảo chất lượng phần mềm, hơn 18 năm dẫn dắt đội nhóm. Hiện tôi đảm nhận vai trò Engineering Manager tại KMS, làm việc với khách hàng Mỹ.",
     "cta.contact": "Liên hệ với tôi",
     "cta.cv": "Tải CV",
@@ -28,8 +28,8 @@
 
     "about.eyebrow": "Giới thiệu",
     "about.title": "Tiếng nói cân bằng giữa tốc độ và chất lượng",
-    "about.p1": "Con đường đến với vai trò Engineering Manager của tôi bắt đầu từ chất lượng. Tôi khởi nghiệp với kiểm thử phần mềm viễn thông từ năm 2003, có hai năm làm việc onsite tại Ireland, và lần lượt trưởng thành từ kỹ sư QC lên consultant, project manager, QC leader và Scrum Master trước khi chuyển sang quản lý kỹ thuật tại KMS Technology.",
-    "about.p2": "Hiện nay tôi đảm nhận cùng lúc bốn vai trò cho khách hàng Mỹ — <strong>engineering manager, project manager, Scrum Master và test automation manager</strong> — cho các đội iOS, Android, front-end và QA. Tôi làm việc trực tiếp với các bên liên quan, chuyển mục tiêu của họ thành backlog rõ ràng, ước lượng hợp lý, và đảm bảo mọi thứ được bàn giao đều đã được kiểm thử, tuân thủ quy trình và sẵn sàng phát hành.",
+    "about.p1": "Con đường đến với vai trò Engineering Manager của tôi bắt đầu từ chất lượng. Tôi khởi nghiệp với kiểm thử phần mềm viễn thông từ năm 2003, có hai năm làm việc onsite tại Ireland, và lần lượt trưởng thành từ kỹ sư QA lên consultant, project manager và QA lead trước khi chuyển sang quản lý kỹ thuật tại KMS Technology. Năm 2019, tôi có thêm ba tháng onsite tại Mỹ (tháng 2 – tháng 5) làm việc trực tiếp với khách hàng để khởi động một dự án ứng dụng mobile và web.",
+    "about.p2": "Tôi đảm nhận cùng lúc bốn vai trò cho khách hàng Mỹ — <strong>engineering manager, project manager, Scrum Master và test automation manager</strong> — cho các đội ứng dụng web, ứng dụng mobile và QA. Tôi làm việc trực tiếp với các bên liên quan, chuyển mục tiêu của họ thành backlog rõ ràng, ước lượng hợp lý, và đảm bảo mọi thứ được bàn giao đều đã được kiểm thử, tuân thủ quy trình và sẵn sàng phát hành.",
     "about.p3": "Tôi đã triển khai dự án cho khách hàng tại Mỹ, Canada, Anh và Trung Quốc trong các lĩnh vực Giải trí, Thể thao, Ngân hàng, Tài chính, Bảo hiểm, Y tế, Viễn thông và Kho dữ liệu.",
 
     "str.eyebrow": "Giá trị tôi mang lại",
@@ -65,7 +65,7 @@
     "exp.1.c": "Sở hữu chiến lược regression; tự động hóa regression cho mọi nền tảng và chạy theo lịch, kèm dashboard độ bao phủ và tỷ lệ pass/fail",
     "exp.1.d": "Đảm bảo các nguyên tắc chất lượng bằng code review, regression tự động và phân tích tĩnh trên Jenkins, SonarQube và GitHub",
     "exp.2.title": "Acting Engineering Manager",
-    "exp.2.body": "Quản lý đội 14 kỹ sư phát triển và QA thiết kế và xây dựng một ứng dụng mobile — lập kế hoạch sprint, ước lượng, kế hoạch release và giao tiếp với khách hàng. Kèm cặp các kỹ sư senior và QA lead, trao đổi về hiệu suất và lộ trình nghề nghiệp.",
+    "exp.2.body": "Quản lý đội 14 kỹ sư phát triển và QA thiết kế và xây dựng một ứng dụng mobile — lập kế hoạch sprint, ước lượng, kế hoạch release và giao tiếp với khách hàng. Có ba tháng onsite tại Mỹ (02/2019 – 05/2019) làm việc với khách hàng để khởi động dự án ứng dụng mobile và web. Kèm cặp các kỹ sư senior và QA lead, trao đổi về hiệu suất và lộ trình nghề nghiệp.",
     "exp.3.title": "Senior QA",
     "exp.3.body": "Dẫn dắt đội QA 12 người: chiến lược, kế hoạch và bộ kiểm thử, chỉ số và báo cáo QA. Phối hợp với lập trình viên, product owner và khách hàng để phân tích yêu cầu.",
     "exp.4.title": "Senior QC → QC Leader",
