@@ -16,7 +16,7 @@
     "hero.status": "Sẵn sàng cho vị trí Engineering Manager · TP. Hồ Chí Minh · Onsite / Hybrid / Remote",
     "hero.role": "Engineering Manager",
     "hero.lead": "Tôi dẫn dắt các đội kỹ thuật đa chức năng tại Việt Nam xây dựng sản phẩm mobile và web cho khách hàng quốc tế — và luôn giữ cân bằng giữa tốc độ và chất lượng.",
-    "hero.sub": "Hơn 22 năm trong lĩnh vực phát triển và đảm bảo chất lượng phần mềm, hơn 18 năm dẫn dắt đội nhóm. Hiện quản lý 2 dự án với 18 kỹ sư tại KMS Technology cho khách hàng Mỹ.",
+    "hero.sub": "Hơn 22 năm trong lĩnh vực phát triển và đảm bảo chất lượng phần mềm, hơn 18 năm dẫn dắt đội nhóm. Hiện tôi đảm nhận vai trò Engineering Manager tại KMS, làm việc với khách hàng Mỹ.",
     "cta.contact": "Liên hệ với tôi",
     "cta.cv": "Tải CV",
     "hero.card": "Engineering Manager · 2021 – nay",
@@ -24,9 +24,7 @@
     "stat.years": "năm trong phát triển &amp; chất lượng phần mềm",
     "stat.leading": "năm dẫn dắt đội nhóm",
     "stat.crossfn": "năm quản lý đội đa chức năng dev + QA",
-    "stat.engineers": "kỹ sư trong 2 dự án hiện tại",
     "stat.markets": "thị trường khách hàng: Mỹ · Canada · Anh · Trung Quốc",
-    "stat.domains": "lĩnh vực, từ ngân hàng đến giải trí",
 
     "about.eyebrow": "Giới thiệu",
     "about.title": "Tiếng nói cân bằng giữa tốc độ và chất lượng",
@@ -59,10 +57,6 @@
 
     "exp.eyebrow": "Kinh nghiệm",
     "exp.title": "Sự nghiệp được xây dựng qua từng lần thăng tiến",
-    "exp.callout.title": "Từ Senior QA lên Engineering Manager trong năm năm",
-    "exp.g1": "Senior QA · đội QA 12 người",
-    "exp.g2": "Acting EM · 14 kỹ sư phát triển &amp; QA",
-    "exp.g3": "Engineering Manager · 2 dự án, 18 kỹ sư",
     "exp.1.date": "2021 – nay",
     "exp.1.title": "Engineering Manager",
     "exp.1.body": "Dẫn dắt 2 dự án với 18 kỹ sư trong lĩnh vực Giải trí và Quản lý hợp đồng cho khách hàng Mỹ — iOS, Android native, front-end (Node.js, Angular) và QA (thủ công và tự động với Selenium, Playwright).",
@@ -103,7 +97,7 @@
     "tech.tools": "Công cụ delivery",
     "tech.note": "Hiểu biết thực tế từ việc dẫn dắt các đội delivery sử dụng những công nghệ này hằng ngày.",
     "ai.eyebrow": "AI trong công việc hằng ngày",
-    "ai.text": "Các công cụ AI là một phần trong bộ công cụ hằng ngày của tôi — ChatGPT và Claude (Chat, Cowork và Claude Code). Chính trang này được xây dựng bằng Claude Code.",
+    "ai.text": "Các công cụ AI là một phần trong bộ công cụ hằng ngày của tôi — ChatGPT và Claude (Chat, Cowork và Claude Code).",
 
     "cred.eyebrow": "Chứng chỉ",
     "cred.title": "Có chứng chỉ, và vẫn không ngừng học",
